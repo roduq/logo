@@ -5,3 +5,4 @@ var animation = lottie.loadAnimation({
   autoplay: true,
   path: 'https://raw.githubusercontent.com/roduq/logo/master/data.json'
 })
+
